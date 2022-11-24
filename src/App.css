@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    bottom: 0;
+    font-family: 'Source Sans Pro';
+}
+
+.main-wrapper {
+    display: flex;
+    background-color: #F5F5F5;
+}
+
+.main-content{
+    width: 100%;
+}
